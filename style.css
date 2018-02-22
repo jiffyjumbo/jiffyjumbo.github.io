@@ -1,0 +1,44 @@
+body	{
+	background-image: url(https://i.ytimg.com/vi/6KHNv7GrfIQ/maxresdefault.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    height:auto;
+}
+
+h1	{
+    color: #1A5480;
+    border: 2px #1A5480;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 40px;
+     position: absolute;
+     left:18%;
+     top: 50%;
+}
+
+.button {
+    background-color: #20666D;
+    border: 2px solid #034950;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    top: 75%;
+    left: 45%;
+}
+
+.button {border-radius: 12px;}
+
+.button:hover	{
+	background-color: #6E7677;
+	transition: 1s;
+	transform: scale(1.1);
+	transition-timing-function: ease-in-out;
+}
+
+.button: 
